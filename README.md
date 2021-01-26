@@ -20,4 +20,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+[![Gitaeklee's github stats](https://github-readme-stats.vercel.app/api?username=LeeGitaek)](https://github.com/anuraghazra/github-readme-stats)
+
 ![footer](https://capsule-render.vercel.app/api?type=wave&color=F05138&height=150&section=footer&text=Swift&fontSize=60&animation=fadeIn&fontColor=FFFFFF&fontAlign=61)
