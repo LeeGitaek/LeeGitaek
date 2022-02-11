@@ -2,7 +2,6 @@
 
 ###### kAGGLE SOLV : https://www.kaggle.com/coolfamily77
 ###### Leetcode : https://leetcode.com/coolfamily77/
-###### 백준 : https://www.acmicpc.net/user/coolfamily77
 
 ###### 2019.12.21 ~ 2020.03.10 Davis/San Jose, CA, United States 
 ###### 2018.06.22 ~ 2018.08.12 Davis/San Jose, CA, United States
