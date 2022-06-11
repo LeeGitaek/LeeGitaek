@@ -1,5 +1,7 @@
 ### 안녕하세요. 이기택입니다. 👋
 
+###### Medium: https://medium.com/@gitaeklee/
+
 ###### kAGGLE SOLV : https://www.kaggle.com/coolfamily77
 ###### Leetcode : https://leetcode.com/coolfamily77/
 
