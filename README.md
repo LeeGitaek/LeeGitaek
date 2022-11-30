@@ -1,4 +1,4 @@
-### 안녕하세요. 이기택입니다. 👋
+### Hello, my name is gitaek lee 👋
 
 ###### Medium: https://medium.com/@gitaeklee/
 
